@@ -259,6 +259,7 @@ public class FlappyJump extends ApplicationAdapter {
 		birdUp.dispose();
 		birdDown.dispose();
 		wall.dispose();
+		generator.dispose();
 		text100.dispose();
 		text200.dispose();
 		text500.dispose();
